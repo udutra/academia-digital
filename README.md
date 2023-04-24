@@ -1,2 +1,2 @@
 # Academia Digital
- DEsafio de Projeto da DIO.
+ Desafio de Projeto da DIO.
