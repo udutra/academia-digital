@@ -7,3 +7,5 @@ spring:
     show-sql: true
     hibernate:
       ddlAuto: update
+    properties:
+      hibernate.format_sql: true
