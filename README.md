@@ -6,6 +6,7 @@
 
 <h2>🛑 Pré-requistos</h2>
 - [x] Fundamentos do Spring Boot
+
 - [x] Noções de SQL
 
 <h2> 🚦 Guia </h2>
