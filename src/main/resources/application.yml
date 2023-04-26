@@ -2,7 +2,7 @@
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/academia?userTimezone=true&serverTimezone=UTC&useLegacyDate
+    url: jdbc:postgresql://localhost:5432/academia?useTimezone=true&serverTimezone=UTC&useLegacyDate
     username: teste_java
     password: root
   jpa:
@@ -11,7 +11,7 @@ spring:
       ddlAuto: update
     properties:
       hibernate.format_sql: true
-loggin:
+logging:
   level:
     org:
       hibernate:
