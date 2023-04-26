@@ -5,6 +5,7 @@
 <p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 <h2>🛑 Pré-requistos</h2>
+
 - [x] Fundamentos do Spring Boot
 
 - [x] Noções de SQL
