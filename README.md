@@ -79,5 +79,5 @@ Indica qual é o lado inverso ou não dominante da relação.
 </ul>
 
 <h2> 🤝 Contribuindo </h2>
-Este repositório foi criado para fins de estudo, baseado no [projeto](https://github.com/cami-la/academia-digital/ "projeto") da [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la"). 
-E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+Este repositório foi criado para fins de estudo, baseado no <a href="https://github.com/cami-la/academia-digital">projeto</a>
+da <a href="https://www.linkedin.com/in/cami-la">cami-la</a>. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
