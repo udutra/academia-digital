@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+
 @Service
 public class AlunoServiceImpl implements IAlunoService {
 
@@ -51,6 +52,7 @@ public class AlunoServiceImpl implements IAlunoService {
 
     @Override
     public List<AvaliacaoFisica> getAllAvaliacaoFisicaId(Long id) {
-        return null;
+        Aluno aluno = repository.findById(id).orElseThrow();
+        return aluno.getAvaliacoes();
     }
 }
