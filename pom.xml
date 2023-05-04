@@ -8,7 +8,7 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>me.dio.academia</groupId>
+	<groupId>me.dio</groupId>
 	<artifactId>academia-digital</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>academia-digital</name>
